@@ -1,5 +1,5 @@
-# Polymer
-In-development Minecraft client using C++ and Vulkan.
+# repolymer
+A fork of Polymer (In-development Minecraft client using C++ and Vulkan.)
 
 It can only connect to offline Java servers at the moment, but online mode is planned. There's currently no physics, but there's a spectator-like camera for looking around.  
 
